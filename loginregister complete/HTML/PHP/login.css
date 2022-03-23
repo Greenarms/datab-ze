@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+
+   
+        overflow: hidden;
+        background-color: #333;
+      
+    
+      /* Navbar links */
+      
+      
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+   
+      
+     
+    
+    
+} 
+.container {
+    border-radius: 2cm;
+    border: solid;
+
+}
